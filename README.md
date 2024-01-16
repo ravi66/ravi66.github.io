@@ -1,6 +1,6 @@
 ## Book
 
-### An application for recording transactions written in c# and deployed using Blazor WebAssembly
+### A Blazor Wasm application for recording transactions and viewing balances
 
 #### What Book is:
 Book is a project I'm mainly using as a learning experience in various technologies new to me:
