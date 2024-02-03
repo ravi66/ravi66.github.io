@@ -1,7 +1,7 @@
 {
   "entryAssembly": "Book",
   "resources": {
-    "hash": "sha256-QNN5pHQ0P6Uw8ee9sbF/CrRo+VovUSv8jXwvz/+H+kY=",
+    "hash": "sha256-KTWC+gY0E820B//B2n1icApior8Zv5IiS1k1zZqW5wQ=",
     "runtime": {
       "dotnet.7.0.15.h2wcbbho95.js": "sha256-7FPZr82e3Xte99N/I8NXlXtQBJSN5GsE6dRV0VUI3iU=",
       "dotnet.timezones.blat": "sha256-aHk3Pm2JXopn6UPLJtovAqIdIk8GyIMzGm450cli9UE=",
@@ -9,7 +9,7 @@
       "icudt.dat": "sha256-tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4="
     },
     "assembly": {
-      "Book.dll": "sha256-CERdBZlU8xQN6jD3YYZOn/wEXVwrSyjlQklt6tkIPEs=",
+      "Book.dll": "sha256-prKciGNzHh5Xe5FOUDZeHI1951PJN942Qg/34zMGfRY=",
       "Microsoft.AspNetCore.Components.dll": "sha256-usPp7TScuk9BZkNBrd80Kn+Hq1s95USBVCQ/D+DA2PA=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-mi95iw+jZga3qS7WiD0GHNcGyMivTKTRZ6GXMMVOdCQ=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-ATeYvpmr+DP2vqwnXKQh2pnBrxd9v5GfomvsKEIdJpI=",
