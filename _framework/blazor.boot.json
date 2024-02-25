@@ -1,7 +1,7 @@
 {
   "entryAssembly": "Book",
   "resources": {
-    "hash": "sha256-Y/i0K9JLFXzwtOlXjSBjzOOk0aww7jp3W7SNR8JMR4c=",
+    "hash": "sha256-uimbJ78RBYeVqehnNMzXG4FV6w9+gfZ5dtUs51xgrro=",
     "runtime": {
       "dotnet.7.0.16.h2wcbbho95.js": "sha256-Q4SUX6RRv0RC7f+qEsb/L6fznwrwCizaLCxpEnOYQIE=",
       "dotnet.timezones.blat": "sha256-rwyJqJu36keQwNmm/O1XV7tnkkVldIOK8GIjn4gTUt4=",
@@ -9,7 +9,7 @@
       "icudt.dat": "sha256-tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4="
     },
     "assembly": {
-      "Book.dll": "sha256-z+8kt7ZWHYj9J00IcJxbUIe7voeX00iFH6lESVTI/Dw=",
+      "Book.dll": "sha256-G+kvOh1vkwgxLYIFJLGGfuWfB3dIZIjb1rkjAiGgnvs=",
       "Microsoft.AspNetCore.Components.dll": "sha256-DoSgbp1y2yWakLlvd8/p87c5NCMrH/XxEI2F7BR+iYs=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-froJwXXvFeX65YRYm5SJ9bLTUPWPblLe6lxmqjY/8do=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-t8vU63EoiZwZp3WjoIOq59RHS0f1VsEFTgyiOjZD4kI=",
@@ -35,7 +35,7 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-37sOT2q/DrdnyQETx/pIpFbZORyL6Pjj8o9+QO4+G1c=",
       "Microsoft.JSInterop.dll": "sha256-TsiVrxoOaRFGRMUZBRvHe5Zug+SmVufiqhSaScVkNsw=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-1/c7aF8xkwUfqKm22jkHAHR5C7X73CrHL+SOZ0Q0/5A=",
-      "MudBlazor.dll": "sha256-DdOEEn4mJKGX/rnIthkgpL1pYth3WBaLojDkknHzsA8=",
+      "MudBlazor.dll": "sha256-vGnjwwqhL297FKXyvj+Ewi7DIiQvaRovIqhRrSHgBlY=",
       "netstandard.dll": "sha256-q6WB3EGq+qb418CyqAyUc0TNFHVrQIClB4ZA7kpwvLs=",
       "SQLitePCLRaw.batteries_v2.dll": "sha256-SpWcH6AEx3mi47y/8+z8SCs0KBG9Zt+IdSIBfqkcpOw=",
       "SQLitePCLRaw.core.dll": "sha256-jjSDOD/QnHlyKzPl4z/D58DPObtme8UT2gFIwbBDGHc=",
