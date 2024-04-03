@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Book",
   "resources": {
-    "hash": "sha256-NvDriDK/nNWYODh1ZYCVT3BmbFFKFNyqDeOAKFLxN6k=",
+    "hash": "sha256-tR6H4Dd8AsxZhuOam/JjWsG6P3VrW404ZRY+tky98o8=",
     "jsModuleNative": {
       "dotnet.native.8.0.3.wkyh9oo3kb.js": "sha256-OwwpDigm0Y8e3/+uKh0B+sbtxqCm1UARK/YUTnWNT7Q="
     },
@@ -9,7 +9,7 @@
       "dotnet.runtime.8.0.3.d2kvxvq3vc.js": "sha256-eQgtmRxLcbxYmADDa49CHs/GuJ7nM6d/UFWo4EVhuIw="
     },
     "wasmNative": {
-      "dotnet.native.wasm": "sha256-nyLEWA47twUKOADA6mxhBWZ720b1lrx9DWWplJHARRk="
+      "dotnet.native.wasm": "sha256-AzPAqGCGPnu6mO6XhyZ2T+YPmGxdDUGT/HGnhJ+S5YI="
     },
     "icu": {
       "icudt.dat": "sha256-tO5O5YzMTVSaKBboxAqezOQL9ewmupzV2JrB5Rkc8a4="
@@ -17,7 +17,7 @@
     "assembly": {
       "Bit.Besql.wasm": "sha256-omnf1BaBznM5anJeWfTeXV2irMCRmTxzRTmH33t7UlM=",
       "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
-      "Book.wasm": "sha256-yeYsjnzwJkrSo2b3iY6wl6KYg79dPAooX3sqq2H+H28=",
+      "Book.wasm": "sha256-bEdon3+psrvnxRLL1lpWiFJr4AS7lcrXcGrZfaGj0h8=",
       "FluentValidation.wasm": "sha256-r9LyU/ai1EklmxBpjZXuv8cdAf8HD8fJyC6gTkgAx14=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-F/b8c141U/fiV6IhZVK1pfQSniboFMGKF1gJ+LPZ6BY=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-eqkc3KHFsH0PIdqwY138cl7ZBJPxBL6ahh/1deyjtjs=",
@@ -75,7 +75,7 @@
       "System.Net.NetworkInformation.wasm": "sha256-QhbpmlfKg5xHf2VDBv1d/ufQUhhjbsku7tVnbK3Mofo=",
       "System.Net.Primitives.wasm": "sha256-MnvWvpSmrrB+XRLe3FccY/WIiNL+mYB46+xctF0+o2M=",
       "System.ObjectModel.wasm": "sha256-m1aiyK0d/nqtgx3GYh9qU3mHjlf0Ovh5n4/37lUuN+Q=",
-      "System.Private.CoreLib.wasm": "sha256-tSghtz148xco+Xw+jk5rN0Ub/IAm5O6I7C/4hCPms1U=",
+      "System.Private.CoreLib.wasm": "sha256-wFFpqAkJppPKLI69cwMkxrihyw7oxNeP9wvAcuac+K4=",
       "System.Private.Uri.wasm": "sha256-rMxCk5BHmdxTQgaX+egMDdbd+tqGnVEupGoOROetIog=",
       "System.Private.Xml.Linq.wasm": "sha256-au72K1HV7SlHx/kFvuBBA/E0sqqw8fN9DEW1EjOLXIE=",
       "System.Private.Xml.wasm": "sha256-mwwDZ+ay2aebWuG45/RxBnr5zl+P13P8NJMD9wvnYe0=",
