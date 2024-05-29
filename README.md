@@ -9,6 +9,9 @@ Book is a project used as a learning experience in various technologies new to m
  database, _in the browser cache_, with the help of
  [Bit.Besql](https://bitplatform.dev/besql/overview)
 - [MudBlazor](https://www.mudblazor.com/) components and UI styling
+- [ApexCharts](https://apexcharts.com/) Javascript charts
 
 It is a browser application that has no back-end services - everything is accomplished 
 locally in the browser.
+
+Please visit https://github.com/ravi66/Book to access the source code for this application.
