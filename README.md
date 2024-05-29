@@ -1,6 +1,6 @@
 ## Book
 
-### A Blazor WASM PWA application for recording transactions and viewing balances
+### A Blazor WASM PWA for recording transactions and viewing balances
 
 #### What Book is:
 Book is a project used as a learning experience in various technologies new to me:
