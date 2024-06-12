@@ -17,7 +17,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-i9go9c\/gOQZhRn3EYup5Ieg0dd1Po9sZrFGx8oSTbd8=",
+      "hash": "sha256-BO6t2umRaTddP5smTcsbWuC1ekQ4a31mSJ5sGgLZpn0=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -25,7 +25,7 @@
       "url": "_framework\/dotnet.native.8.0.5.wkyh9oo3kb.js"
     },
     {
-      "hash": "sha256-XV4T5uRCb59J+aRbHrilH\/B757f8ICd5xhmA7dqhWuc=",
+      "hash": "sha256-PFGuEg5TBc1fEIQX\/ef\/Sk5w\/0bxcwVcPxYjxcbBfBM=",
       "url": "_framework\/dotnet.native.wasm"
     },
     {
@@ -33,7 +33,7 @@
       "url": "_framework\/Bit.Besql.wasm"
     },
     {
-      "hash": "sha256-kdPzJLs0y40by14jx+OI3UtiiJxv17vH3Hq0iKJaxKY=",
+      "hash": "sha256-YAnmqRuT0V9DVItiMpEhe37Cnwl6FBW685qEx2VbpPo=",
       "url": "_framework\/Blazor-ApexCharts.wasm"
     },
     {
@@ -41,7 +41,7 @@
       "url": "_framework\/Blazored.LocalStorage.wasm"
     },
     {
-      "hash": "sha256-dFfCal\/zQS0y8geb8AFEhWhYKuKVcloFhDSl1TccdrE=",
+      "hash": "sha256-v\/E\/Kt9reur1xoq2vUYkkwCKxqmEMiuAKxmqEfwKVB4=",
       "url": "_framework\/Book.wasm"
     },
     {
@@ -273,7 +273,7 @@
       "url": "_framework\/System.ObjectModel.wasm"
     },
     {
-      "hash": "sha256-MNsAyNEZMPfpA65rhBWMr0RNgoDUNMflkknQujU3OXM=",
+      "hash": "sha256-jzLa9mCTkXSqhbE\/WXgPuwAeMGZ4+0LfJL+cW7J7Lf8=",
       "url": "_framework\/System.Private.CoreLib.wasm"
     },
     {
@@ -325,7 +325,7 @@
       "url": "_framework\/System.Runtime.Serialization.Primitives.wasm"
     },
     {
-      "hash": "sha256-l\/kfN4NX4s7imslVYfZXuR4vBsRxIdXJEyw1K8JjSGw=",
+      "hash": "sha256-aOkr7f4g0BxuqgfUrjNvWCX8sydsJJBykXMHL2RJEDA=",
       "url": "_framework\/System.Runtime.wasm"
     },
     {
@@ -377,7 +377,7 @@
       "url": "_framework\/System.Xml.XDocument.wasm"
     },
     {
-      "hash": "sha256-fDtjhyxZhKRMvRCAdDKxCfUuG1lL1dNfWXqFgdRlC04=",
+      "hash": "sha256-c1VINR5caP++\/qVH+lFeTbLz4Sf\/5n8Bl74RUT7MCp4=",
       "url": "_framework\/fr\/Book.resources.wasm"
     },
     {
@@ -481,5 +481,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "oCyGBDqI"
+  "version": "cOa9wb30"
 };
