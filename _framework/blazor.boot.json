@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Book",
   "resources": {
-    "hash": "sha256-76GnDh3RNEt/fzFAfIfSW+gtzJ9cmlDfWLDjMFq5Kyo=",
+    "hash": "sha256-zNe6qzb57PXOHPTjVlCjkAAQWFETafDDiuEh1D/+aok=",
     "jsModuleNative": {
       "dotnet.native.8.0.5.wkyh9oo3kb.js": "sha256-lkFc2fKj8dqoAHuxc/Unl13t2HadhodNXoP+8xTnWK0="
     },
@@ -18,7 +18,7 @@
       "Bit.Besql.wasm": "sha256-8NehqPmV4vKdwcxXnnNZIYebo9MZa3/g6tiwrkEX9R0=",
       "Blazor-ApexCharts.wasm": "sha256-YAnmqRuT0V9DVItiMpEhe37Cnwl6FBW685qEx2VbpPo=",
       "Blazored.LocalStorage.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
-      "Book.wasm": "sha256-SOx6ntup9RkDIZC2YHT0PblNFTiMuqIUZKBISw1KK3I=",
+      "Book.wasm": "sha256-5FrsbjLmzsVq/SN7YcrAB6o4GCkXOJIJnP+umttav5k=",
       "FluentValidation.wasm": "sha256-1akWVGgQZ9ojnoh8cEfeVZK+gNpDt7EOzVVPLa0T/iQ=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-F/b8c141U/fiV6IhZVK1pfQSniboFMGKF1gJ+LPZ6BY=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-aZN10L8+nrmLzPmDiYTxo+tOq8RMJXn2GR7TlpgoBY0=",
@@ -46,7 +46,7 @@
       "Microsoft.Extensions.Primitives.wasm": "sha256-eqGAfIsQMgpShCCBuLWEPjM5avkmtNe/i/cNDj93T9k=",
       "Microsoft.JSInterop.wasm": "sha256-eVzS63FlbwYBp404DiMu5mS4p4X2kTHBUVwtnUTWTKQ=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-Sqaqke0PabyuCAlmBU6AjOhSx9GZyXiCZCbKqQtRsHc=",
-      "MudBlazor.wasm": "sha256-5z9YvdwMiO+8V0CS7pFC4wO9B5wIBYwiuVIBRRQgG0I=",
+      "MudBlazor.wasm": "sha256-tQCaUqDGqjxpLYTDM0j6aybYBZiKbJzDFYoNLI/nlEI=",
       "netstandard.wasm": "sha256-zWbDB64CjCBacbc5uHp83PCtfqjNzP5PNg9Q4feIKf8=",
       "Newtonsoft.Json.wasm": "sha256-GlXMWKvDs45M2pACoR3Y4Qh8mcrOZGljqmvJY+6JZ5s=",
       "SQLitePCLRaw.batteries_v2.wasm": "sha256-AymqXfJmredfnqn6PxQs3nqqNoMXiBDEqaT3b0605F8=",
@@ -105,7 +105,7 @@
     },
     "satelliteResources": {
       "fr": {
-        "Book.resources.wasm": "sha256-x3qFExXe+JxQEWsY77tWkFQzFiMp9iLMh5Iq+w2XBmA="
+        "Book.resources.wasm": "sha256-u9tJy8O8sQzme9MltqbAahUwvUzSuPU0Zh1sn4kd6/o="
       }
     }
   },
