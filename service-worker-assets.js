@@ -17,7 +17,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-FaHUFDkWXQo\/wiKlz2IgwVyFA22wg+rK9Z8+vVoVptQ=",
+      "hash": "sha256-tXn7ioHL8vR4iyGVcYUbl+\/Jp\/bz07sRk9bMjJjbDE4=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -37,7 +37,7 @@
       "url": "_framework\/Blazor-ApexCharts.wasm"
     },
     {
-      "hash": "sha256-W+9MS5T90+mwVG2CReMrProgksvExxHTwzmO7dMQbCY=",
+      "hash": "sha256-LjhSFKDbl8LbDtNcSWbEceBJKlNZcCcFTvw1bi0PzDs=",
       "url": "_framework\/Book.wasm"
     },
     {
@@ -105,7 +105,7 @@
       "url": "_framework\/Microsoft.Extensions.Configuration.wasm"
     },
     {
-      "hash": "sha256-YpzJgpuI67xbsK8OqDIAXChTOO4CddddoAn0\/QAQC2Y=",
+      "hash": "sha256-9tdaGGlMKcN2G2kitsjHSuIuddv2MPwHVJDqV0BNm5A=",
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.Abstractions.wasm"
     },
     {
@@ -141,7 +141,7 @@
       "url": "_framework\/Microsoft.Extensions.Primitives.wasm"
     },
     {
-      "hash": "sha256-eVzS63FlbwYBp404DiMu5mS4p4X2kTHBUVwtnUTWTKQ=",
+      "hash": "sha256-lnARMw20WKoemKnjZkg6r\/xa\/MLppJKwuws2U692xak=",
       "url": "_framework\/Microsoft.JSInterop.wasm"
     },
     {
@@ -373,12 +373,16 @@
       "url": "_framework\/System.Xml.XDocument.wasm"
     },
     {
-      "hash": "sha256-ewTvdfta3uBtD2WUZkY+t5u6wH\/zrrSH0jokYo5Hc7k=",
+      "hash": "sha256-JpqW0y3b5ZjfSM6E7sLraWQBKXBpngV+tXRHz0+qlMw=",
       "url": "_framework\/fr\/Book.resources.wasm"
     },
     {
       "hash": "sha256-4q2U8VnKtP+KG1eghOfXcYGgk037g53r0M0WyZPoJv0=",
       "url": "Book.styles.css"
+    },
+    {
+      "hash": "sha256-qktD4V2SQaoHTBnqjpCzbq+vUA8L6x\/CD2p3ryYZv8g=",
+      "url": "Pages\/Database.razor.js"
     },
     {
       "hash": "sha256-OHUlLyXuua1SwLOz5u\/T0SQCHI9Oo24Z\/lAhIHhGXao=",
@@ -441,10 +445,6 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-\/ZKs6+xTbjBE+Fs1LwD3mFI8AqSlBaxKo4diOrAOSKk=",
-      "url": "js\/database.js"
-    },
-    {
       "hash": "sha256-OhClHhzSWywG4mX5ajYyfSXDuh+CRCUoXHOtC\/VvUc4=",
       "url": "manifest.webmanifest"
     },
@@ -477,5 +477,5 @@
       "url": "_content\/MudBlazor\/MudBlazor.min.js"
     }
   ],
-  "version": "8sHxXvM1"
+  "version": "aCDYcKl2"
 };
