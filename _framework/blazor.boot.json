@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Book",
   "resources": {
-    "hash": "sha256-guETI9Wdr/Y8/1Hq/96T3WN85roA1PUpHBHrmxu6d60=",
+    "hash": "sha256-ernbUJy3/CwieznDPzGLpTRdKjWyaCttf1ncp4AdxF0=",
     "jsModuleNative": {
       "dotnet.native.8.0.5.wkyh9oo3kb.js": "sha256-lkFc2fKj8dqoAHuxc/Unl13t2HadhodNXoP+8xTnWK0="
     },
@@ -17,7 +17,7 @@
     "assembly": {
       "Bit.Besql.wasm": "sha256-8NehqPmV4vKdwcxXnnNZIYebo9MZa3/g6tiwrkEX9R0=",
       "Blazor-ApexCharts.wasm": "sha256-YAnmqRuT0V9DVItiMpEhe37Cnwl6FBW685qEx2VbpPo=",
-      "Book.wasm": "sha256-4/DkDa8ayPJNnY7KXsuFAnghdAVDviikDVjAGnvn7Bc=",
+      "Book.wasm": "sha256-TQM2nujQ3zO7EY4ibaY4/PUQHFOjzI+Bz63XfCGgTbg=",
       "FluentValidation.wasm": "sha256-1akWVGgQZ9ojnoh8cEfeVZK+gNpDt7EOzVVPLa0T/iQ=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-om+q6bt/lS4cX5QaDuxYVcC0X6f/CdnmBf1e61/rsHQ=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-xrifMT9F9tAqskFVkZ+5/kGB0HERPDGSECeVBVo93AY=",
@@ -104,7 +104,7 @@
     },
     "satelliteResources": {
       "fr": {
-        "Book.resources.wasm": "sha256-MB0RAR4EDnChnEiqb5/IqO7sc6/jkYatwX1B6DId7a4="
+        "Book.resources.wasm": "sha256-rtGlH7SlkGdSc6RtaHIg0eyG8F3MqFp1y4ojrEBbAP0="
       }
     }
   },
